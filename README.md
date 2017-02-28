@@ -1,2 +1,2 @@
 # Arduino
-All my scatches for Arduino
+All my sketches for Arduino
